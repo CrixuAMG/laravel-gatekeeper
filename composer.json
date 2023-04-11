@@ -1,0 +1,16 @@
+{
+    "name": "crixuamg/laravel-gatekeeper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Crixuamg\\LaravelGatekeeper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Kaal",
+            "email": "christiankaal@gmail.com"
+        }
+    ],
+    "require": {}
+}
